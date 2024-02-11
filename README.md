@@ -1,7 +1,7 @@
 # trick2-transform
 ![img-tr2](https://github.com/Nasim1380p/trick2-transform/assets/155636802/69bfecb3-874f-4a7a-a3ea-688d473a15c1)
 
-- [Demo Project](https://nasim1380p.github.io/trick1-transform/)
+- [Demo Project](https://nasim1380p.github.io/trick2-transform/)
 
 - 👩‍🎓 Developed by nasim pirghollo
 
